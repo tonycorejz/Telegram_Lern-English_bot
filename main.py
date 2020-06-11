@@ -4,7 +4,7 @@ from googletrans import Translator
 from telebot import types
 
 
-bot = telebot.TeleBot('1138805467:AAFKA5RAgKOyh_ewDiTIsXvsqohYl4H2wOo')
+bot = telebot.TeleBot('')
 #apihelper.proxy = {'https': 'socks5h://216.144.228.130:15378'}
 
 translator = Translator()
